@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="Jpn34gg" resname="menu.report_user_week">
         <source>menu.report_user_week</source>
-        <target>Informe de semanas aprobadas</target>
+        <target>Informe semanal por usuario</target>
       </trans-unit>
       <trans-unit id="D8YT2co" resname="menu.settings_workday_history">
         <source>menu.settings_workday_history</source>
